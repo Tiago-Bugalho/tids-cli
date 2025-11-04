@@ -9,8 +9,9 @@
   },
   "type": "module",
   "bin": {
-    "tids-project-create": "./cli.cjs"
+    "tids-project-create": "./cli.mjs"
   }
 }
+
 
 
