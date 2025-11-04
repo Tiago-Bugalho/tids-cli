@@ -28,3 +28,4 @@ A ideia é que, no futuro, ela sirva como um modelo de como a web pode ser desen
 
 O TIDS representa o espírito de inovação e performance.
 Criado com paixão por Tiago Bugalho, ele é a prova de que é possível unir simplicidade, velocidade e poder em uma única biblioteca.
+(OBS: o código de: cli.mjs é obsfucado para não roubar, por favor, não copie!)
